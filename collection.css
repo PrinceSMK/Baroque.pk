@@ -1,0 +1,54 @@
+.marquee{
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+    font-weight: bold;
+}
+.titleimg{
+    margin-top: 10px;
+    margin-left: 499px;
+    margin-bottom: 10px;
+}
+#nav{
+    margin: 0;
+}
+.fas{
+    width: 100px;
+    height: 200px;
+}
+.card{
+    margin-left: 15px;
+}
+#cardleft{
+    margin-left: 130px;
+    margin-top: 13px;
+}
+.embroi{
+    margin-left: 50px;
+
+}
+.pkr{
+    margin-left: 63px;
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+#middle{
+    margin-top: 13px;
+    margin-bottom: 40px;
+}
+#right{
+    margin-left: -104px;
+    margin-top: 13px;
+}
+#reserve{
+    margin-top: 27px;
+    background-color: black;
+    color: aliceblue;
+    line-height: 33px;
+    font-size: 16px;
+    height: 33px;
+    margin-bottom: 0;
+}

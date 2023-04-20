@@ -1,0 +1,49 @@
+.marquee{
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+    font-weight: bold;
+}
+.titleimg{
+    margin-top: 10px;
+    margin-left: 499px;
+    margin-bottom: 10px;
+}
+#nav{
+    margin: 0;
+}
+.unstitched{
+    margin-left: 100px;
+    color: #4f4f4f;
+    font-size: 19px;
+    font-weight: bold;
+}
+.anchorshop{
+    color: black;
+    cursor: pointer;
+    margin-left: 100px;
+    font-weight: bold;
+
+
+}
+#imagesec{
+    margin-top: 60px;
+}
+#footer{
+    padding-top: 12px;
+    height: 155px;
+
+}
+#footer1{
+    margin-top: -122px;
+}
+#reserve{
+    margin-top: 27px;
+    background-color: black;
+    color: aliceblue;
+    line-height: 33px;
+    font-size: 16px;
+    height: 33px;
+    margin-bottom: 0;
+}

@@ -1,0 +1,80 @@
+.marquee{
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+    font-weight: bold;
+}
+.titleimg{
+    margin-top: 10px;
+    margin-left: 499px;
+    margin-bottom: 10px;
+}
+#nav{
+    margin: 0;
+}
+#baroqueimg{
+    margin-left: 50px;
+}
+.cart{
+    font-size: 13px;
+    margin-left: 56px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.contactinfo{
+    margin-left: 35px;
+    margin-bottom: 30px;
+
+}
+.form-label{
+    margin-left: 36px;
+}
+.form-control{
+    margin-left: 36px;
+
+}
+.shippinga{
+    margin-left: 35px;
+    margin-top: 36px;
+
+}
+#country{
+    margin-left: 35px;
+   
+
+}
+#inputPassword4{
+    margin-top: 18px;
+    margin-left: -226px;
+}
+#inputEmail4{
+    margin-top: 18px;
+
+}
+#inputZip{
+    margin-left: -215px;
+}
+#btn{
+    margin-left: 500px;
+    margin-bottom: 30px;
+
+}
+
+#footer{
+    padding-top: 12px;
+    height: 155px;
+
+}
+#footer1{
+    margin-top: -122px;
+}
+#reserve{
+    margin-top: 27px;
+    background-color: black;
+    color: aliceblue;
+    line-height: 33px;
+    font-size: 16px;
+    height: 33px;
+    margin-bottom: 0;
+}
